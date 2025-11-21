@@ -40,8 +40,17 @@ O aplicativo possui um layout visual agradável com:
 
 ---
 
+
+
 ## Como Rodar
 
 1. Clone o repositório:
-   ```bash
+
    git clone <URL_DO_REPOSITORIO>
+
+### 🧾 Licença
+Este projeto é de uso livre para fins educacionais e demonstração.
+Sinta-se à vontade para modificar e aprimorar conforme suas necessidades.
+
+Iago Monfredini - Coryright
+   
